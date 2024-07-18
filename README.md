@@ -53,7 +53,6 @@ The page has a background image of the college.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
 
-Feel free to customize this `README.md` to better suit your project details and preferences!
 
 
 
