@@ -1,1 +1,58 @@
-/* Copy of main styles.css for GitHub Pages */
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+header {
+	background-color: rgba(129, 73, 73, 0.7);
+	color: black;
+	padding: 1em 0;
+	text-align: center;
+}
+.titles {
+	width: auto;
+	height: auto;
+	text-align: center;
+	float: none;
+	color: black;
+}
+
+.center {
+	width: auto;
+	height: auto;
+	text-align: center;
+	float: none;
+	padding: 22.5px 0px 0px 10px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin: 0 15px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+main {
+	padding: 2em;
+	background-color: none(255, 255, 255, 0.8);
+	margin: 20px;
+	border-radius: 10px;
+}
+
+.hero {
+	text-align: center;
+}
